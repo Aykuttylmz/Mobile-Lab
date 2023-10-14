@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week2</string>
+    <string name="title_activity_array_adapter">ArrayAdapterActivity</string>
+    <string name="title_activity_custom_adapter">CustomAdapterActivity</string>
+</resources>
