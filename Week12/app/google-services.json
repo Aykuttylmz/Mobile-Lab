@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12272316864",
+    "project_id": "mynote-19dc2",
+    "storage_bucket": "mynote-19dc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12272316864:android:fe43eaeee1a2e102be5825",
+        "android_client_info": {
+          "package_name": "com.example.week12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCED-qUgrV99-uwrW23me5yHzDPhOYrEGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
