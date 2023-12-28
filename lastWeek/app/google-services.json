@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365650470314",
+    "project_id": "lastweek-4d41f",
+    "storage_bucket": "lastweek-4d41f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365650470314:android:4be3c6b73fe63597a4f7d3",
+        "android_client_info": {
+          "package_name": "com.example.lastweek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGQa1cJPsoB3GBWkpdz9-NbgGuHmvK8Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
